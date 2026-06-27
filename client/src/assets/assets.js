@@ -15,6 +15,9 @@ export const assets = {
     sponsored_img
 }
 
+
+// for icons 
+
 export const menuItemsData = [
     { to: '/', label: 'Feed', Icon: Home },
     { to: '/messages', label: 'Messages', Icon: MessageCircle },
